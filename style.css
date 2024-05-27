@@ -1,0 +1,12 @@
+:root{
+    --branco: white;
+    --cor-de-fundo:rgb(221, 91, 145);
+    --fundo-senha:rgb(252, 129, 180);
+    --texto-fundo:rgb(252, 129, 156);
+    --borda:rgb(204, 72, 112);
+}
+body{
+    color:var(--branco);
+    background-color:var(--cor-de-fundo);
+
+}
